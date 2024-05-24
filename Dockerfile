@@ -1,4 +1,4 @@
-FROM shesse/redoc-cli:1.0.1
+FROM docker.io/redocly/redoc:v2.1.4
 
 COPY LICENSE README.md /
 
