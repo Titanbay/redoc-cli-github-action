@@ -1,4 +1,4 @@
-FROM docker.io/redocly/redoc:v2.1.4
+FROM ghcr.io/redocly/cli:1.13.0
 
 COPY LICENSE README.md /
 
